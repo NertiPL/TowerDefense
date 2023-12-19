@@ -1,5 +1,7 @@
-Camera3D
-Node3D
+AnimationTree
+NavigationAgent3D
 CollisionShape3D
 CharacterBody3D
+Camera3D
+Node3D
 CSGBox3D
